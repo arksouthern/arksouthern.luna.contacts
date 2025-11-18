@@ -1,0 +1,14 @@
+{
+    "displayName": "Address Book",
+    "name": "@arksouthern/luna.contacts",
+    "description": "Contact manager",
+    "author": {
+        "name": "Ark Southern"
+    },
+    "version": "v0.0.1",
+    "license": "MIT",
+    "dependencies": {
+        "@arksouthern/jsx": "^0.9.2"
+    },
+    "icon": "/src/assets/xp-archive/wab_IDI_ICON_ABOOK.ico"
+}
